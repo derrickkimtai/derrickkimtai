@@ -28,8 +28,8 @@ You can reach me out through [LinkedIn](https://www.linkedin.com/in/derrick-moib
 
 ## My Stats
 
-[![Alogaritm_Ace's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alogaritm_Ace&show_icons=true&theme=radical)](
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alogaritm_Ace&layout=compact)](
+[![Derrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=alogaritm-ace&show_icons=true&theme=radical)](
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alogaritm-ace&layout=compact)](
 
 ## My Certifications
 
@@ -52,9 +52,7 @@ You can reach me out through [LinkedIn](https://www.linkedin.com/in/derrick-moib
 - [Medium](https://derrickmoiben.medium.com/)
 - [Hashnode](https://derrickmoiben.hashnode.dev/)
 
-## My Portfolio
 
-- [GitHub Pages](https://alogaritm-ace.github.io/)
 
 
 
