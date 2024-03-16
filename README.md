@@ -8,8 +8,6 @@ I'm Derrick Moiben, a Fullstack Developer with a passion for technology and prog
 I'm currently studying at Alx Africa, karatina University. I'm learning Django and how to automate my work on server configuration.
 
 You can reach me out through:
-- [Email](mailto:
-- [Phone](tel:+254 721170627)
 - [LinkedIn](https://www.linkedin.com/in/derrick-moiben)
 - [Twitter](https://twitter.com/DerrickMoio)
 - [Instagram](https://instagram.com/k.i.m_kimtai)
@@ -57,11 +55,6 @@ You can reach me out through:
 <a href="https://www.facebook.com/derrick.moiben">
     <img src="/styles/Screenshot-195.png" width="50" height="50" alt="Facebook" title="Facebook">
 </a>
-
-
-
-## My Contact
-6. [Email](mailto:derrickmoio92@gmail.com)
 
 ## My Blog
 
