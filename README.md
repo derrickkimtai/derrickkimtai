@@ -7,7 +7,12 @@ I'm Derrick Moiben, a Fullstack Developer with a passion for technology and prog
 
 I'm currently studying at Alx Africa, karatina University. I'm learning Django and how to automate my work on server configuration.
 
-You can reach me out through [LinkedIn](https://www.linkedin.com/in/derrick-moiben), [Twitter](https://twitter.com/DerrickMoio), [Instagram](https://instagram.com/k.i.m_kimtai), and [Facebook](https://www.facebook.com/derrick.moiben).
+You can reach me out through:
+
+<a href="https://www.linkedin.com/in/derrick-moiben"><img src="/styles/Screenshot-194.png" width="20" height="20"></a>
+<a href="https://twitter.com/DerrickMoio"><img src="/styles/twitter_5969020.png" width="20" height="20"></a>
+<a href="https://instagram.com/k.i.m_kimtai"><img src="/styles/Screenshot-193.png" width="20" height="20"></a>
+<a href="https://www.facebook.com/derrick.moiben"><img src="/styles/Screenshot-195.png" width="20" height="20"></a>
 
 ## Technologies & Tools
 
