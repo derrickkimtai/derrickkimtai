@@ -14,6 +14,11 @@ You can reach me out through:
 - [Facebook](https://www.facebook.com/derrick.moiben)
 
 
+## My Stats
+
+![Derrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=derrickkimtai&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=derrickkimtai&layout=compact)
+
 ## Technologies & Tools
 
 - HTML5
@@ -25,16 +30,6 @@ You can reach me out through:
 - GitHub
 - VS Code
 
-## My Projects
-
-- [seat_reservation_system](
-- [alx-higher_level_programmind](
-- [0x02. vi](
-
-## My Stats
-
-![Derrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=derrickkimtai&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=derrickkimtai&layout=compact)
 
 ## My Certifications
 
