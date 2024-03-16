@@ -1,4 +1,4 @@
- <style>
+
         body {
             font-family: Arial, sans-serif;
             margin: 0;
@@ -43,8 +43,37 @@
         }
         .technologies li {
             margin-bottom: 10px;
+            font-size: 24px;
         }
-    </style
+        .technologies li i {
+            color: #333;
+            transition: color 0.3s ease;
+        }
+        .technologies li i:hover {
+            color: #007bff;
+        }
+        .technologies li i::before {
+            margin-right: 10px;
+        }
+        .technologies li i[title="HTML5"]::before {
+            content: "HTML5";
+        }
+        .technologies li i[title="CSS3"]::before {
+            content: "CSS3";
+        }
+        .technologies li i[title="Python"]::before {
+            content: "Python";
+        }
+        .technologies li i[title="JavaScript"]::before {
+            content: "JavaScript";
+        }
+        /* Add more technologies/tools as needed */
+        h3 {
+            text-align: center;
+        }
+        p {
+            text-align: center;
+        }
     <div class="container">
         <h1>Skilled Fullstack Developer</h1>
         <h3>Hello, I'm Alogaritm_Ace!</h3>
