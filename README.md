@@ -8,23 +8,12 @@ I'm Derrick Moiben, a Fullstack Developer with a passion for technology and prog
 I'm currently studying at Alx Africa, karatina University. I'm learning Django and how to automate my work on server configuration.
 
 You can reach me out through:
-
-
-<a href="https://www.linkedin.com/in/derrick-moiben" style="margin-right: 20px;">
-    <img src="/styles/Screenshot-194.png" width="50" height="50" alt="LinkedIn" title="LinkedIn">
-</a>
-<a href="https://twitter.com/DerrickMoio" style="margin-right: 20px;">
-    <img src="/styles/twitter_5969020.png" width="50" height="50" alt="Twitter" title="Twitter">
-</a>
-<a href="https://instagram.com/k.i.m_kimtai" style="margin-right: 20px;">
-    <img src="/styles/Screenshot-193.png" width="50" height="50" alt="Instagram" title="Instagram">
-</a>
-<a href="https://www.facebook.com/derrick.moiben">
-    <img src="/styles/Screenshot-195.png" width="50" height="50" alt="Facebook" title="Facebook">
-</a>
-
-
-
+- [Email](mailto:
+- [Phone](tel:+254 721170627)
+- [LinkedIn](https://www.linkedin.com/in/derrick-moiben)
+- [Twitter](https://twitter.com/DerrickMoio)
+- [Instagram](https://instagram.com/k.i.m_kimtai)
+- [Facebook](https://www.facebook.com/derrick.moiben)
 
 
 ## Technologies & Tools
@@ -56,14 +45,23 @@ You can reach me out through:
 
 ## My Social Media
 
-- [LinkedIn](https://www.linkedin.com/in/derrick-moiben)
-- [Twitter](https://twitter.com/DerrickMoio)
-- [Instagram](https://instagram.com/k.i.m_kimtai)
-- [Facebook](https://www.facebook.com/derrick.moiben)
+<a href="https://www.linkedin.com/in/derrick-moiben" style="margin-right: 20px;">
+    <img src="/styles/Screenshot-194.png" width="50" height="50" alt="LinkedIn" title="LinkedIn">
+</a>
+<a href="https://twitter.com/DerrickMoio" style="margin-right: 20px;">
+    <img src="/styles/twitter_5969020.png" width="50" height="50" alt="Twitter" title="Twitter">
+</a>
+<a href="https://instagram.com/k.i.m_kimtai" style="margin-right: 20px;">
+    <img src="/styles/Screenshot-193.png" width="50" height="50" alt="Instagram" title="Instagram">
+</a>
+<a href="https://www.facebook.com/derrick.moiben">
+    <img src="/styles/Screenshot-195.png" width="50" height="50" alt="Facebook" title="Facebook">
+</a>
+
+
 
 ## My Contact
 6. [Email](mailto:derrickmoio92@gmail.com)
-7. [Phone](tel:+254 721170627)
 
 ## My Blog
 
