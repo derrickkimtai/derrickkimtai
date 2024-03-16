@@ -47,8 +47,8 @@ You can reach me out through:
 
 ## My Blog
 
-- [Medium](https://derrickmoiben.medium.com/)
-- [Hashnode](https://derrickmoiben.hashnode.dev/)
+- [Medium](https://medium.com/@derrickmoio92)
+- [Hashnode](https://hashnode.com/@kimtai254)
 
 
 
