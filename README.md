@@ -28,8 +28,8 @@ You can reach me out through [LinkedIn](https://www.linkedin.com/in/derrick-moib
 
 ## My Stats
 
-![Derrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=alogaritm-ace&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alogaritm-ace&layout=compact)
+![Derrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=derrickkimtai&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=derrickkimtai&layout=compact)
 
 ## My Certifications
 
