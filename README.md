@@ -21,7 +21,7 @@ You can reach me out through:
 
 ## Technologies & Tools
 
-- HTML5
+- Html
 - CSS3
 - Python
 - JavaScript
