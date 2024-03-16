@@ -44,9 +44,7 @@
         .technologies li {
             margin-bottom: 10px;
         }
-    </style>
-</head>
-<body>
+    </style
     <div class="container">
         <h1>Skilled Fullstack Developer</h1>
         <h3>Hello, I'm Alogaritm_Ace!</h3>
@@ -55,7 +53,7 @@
         <p>I'm currently studying at Alx Africa, karatina University </p>
         <p>I'm learning Django and how automate my work on server configuration </p>
         
-        <!-- Social Media Icons -->
+        
         <div class="social-icons">
             <h3>You can reach me out through</h3>
             <a href="https://www.linkedin.com/in/derrick-moiben" target="_blank"><img src="/styles/Screenshot-194.png" alt="LinkedIn"></a>
@@ -64,16 +62,15 @@
             <a href="" target="_blank"><img src="/styles/Screenshot-195.png" alt="Facebook"></a>
         </div>
         
-        <!-- Technologies and Tools -->
+        
         <div class="technologies">
             <h2>Technologies & Tools</h2>
             <ul>
                 <li><i class="fab fa-html5" title="HTML5"></i></li>
                 <li><i class="fab fa-css3-alt" title="CSS3"></i></li>
                 <li><i class="fab fa-python" title="Python"></i></li>
-                <li><i class="fa-brands fa-instagram"></i></li>
+                <li><i class="fab fa-js" title="JavaScript"></i></li>
                 <!-- Add more technologies/tools as needed -->
             </ul>
         </div>
     </div>
-</body>
