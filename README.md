@@ -45,6 +45,7 @@ Check out my portfolio: [Derrick's Portfolio](https://derrick-moiben.onrender.co
 
 - [Alx Africa](https://www.alxafrica.com/)
 - [Karatina University](https://www.karu.ac.ke/)
+- [My Certificate](https://drive.google.com/file/d/10S1pKAFhaVWgFV_G0s7oF6zKNstxbNVd/view?usp=sharing)
 
 ### My Social Media
 
