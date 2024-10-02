@@ -1,14 +1,14 @@
-# Derrick
+# Derrick Moiben
 
 ## Hi there 👋
 
-I'm **Derrick Moiben**, a Fullstack Developer with a passion for technology and programming. I'm skilled in both frontend and backend development, and I'm always eager to learn new technologies and tools.
+I'm **Derrick Moiben**, a Backend Developer with a passion for technology and programming. I specialize in backend development and am always eager to learn new technologies and tools.
 
-I'm currently working on a factory project and about to start my learning at **Stanford Data Ocean**.
+I recently completed my certificate course at Precision and successfully launched my factory system project, which is now in production. Currently, I am working on a Matatu project aimed at improving the transport sector in Nairobi, Kenya.
 
 ### Contact Me
 
-You can reach me out through:
+You can reach out to me through:
 - [LinkedIn](https://www.linkedin.com/in/derrick-moiben)
 - [Twitter](https://twitter.com/DerrickMoio)
 - [Instagram](https://instagram.com/k.i.m_kimtai)
@@ -21,15 +21,16 @@ Check out my portfolio: [Derrick's Portfolio](https://derrick-moiben.onrender.co
 ### My Stats
 
 ![Derrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=derrickkimtai&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=derrickkimtai&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=derrickkimtai&layout=compact&theme=radical)
+![Derrick's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=derrickkimtai&theme=radical)
 
 ### Technologies & Tools
 
 <p align="center">
-    <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
+    <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a>
     <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
     <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></a>
-    <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a>
+    <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/></a>
     <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
     <a href="https://www.w3.org/html/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
@@ -45,7 +46,7 @@ Check out my portfolio: [Derrick's Portfolio](https://derrick-moiben.onrender.co
 
 - [Alx Africa](https://www.alxafrica.com/)
 - [Karatina University](https://www.karu.ac.ke/)
-- [My Certificate](https://drive.google.com/file/d/10S1pKAFhaVWgFV_G0s7oF6zKNstxbNVd/view?usp=sharing)
+- [Precision Course Certificate](https://drive.google.com/file/d/10S1pKAFhaVWgFV_G0s7oF6zKNstxbNVd/view?usp=sharing)
 
 ### My Social Media
 
