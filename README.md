@@ -64,4 +64,4 @@ Check out my portfolio: [Derrick's Portfolio](https://derrick-moiben.onrender.co
 
 ---
 
-&copy; 2024 Derrick Moiben. All rights reserved.
+&copy; 2025 Derrick Moiben. All rights reserved.
